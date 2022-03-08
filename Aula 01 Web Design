@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Vinicius">
+    <meta name="description" content="exercicio">
+    <meta name="keywords" content="mico leão dourado, mico leão, mico, leão, extinção">
+</head>
+
+<body>
+    <h1>MICO LEÃO DOURADO</h1>
+    <hr>
+    <ul>
+        <li><b>Reino:</b>Animalia</li>
+        <li><b>Filo:</b>Chordata</li>
+        <li><b>Classe:</b>Mammalia</li>
+        <li><b>Orden:</b>Primates</li>
+        <li><b>Família:</b>Callitrichidae</li>
+        <li><b>Género:</b>Leontopithecus</li>
+        <li><b>Espécie:</b>L.rosalia</li>
+    </ul>
+    <hr>
+    <h2>Onde vive?</h2>
+    <p>O mico-leão-dourado já é considerada uma especie em extinção, mas os poucos que existem são encontrados no
+        litoral fluminense, chegando ser encontrado até no Espírito Santo. </p>
+    <hr>
+    <h2>Uma espécie em risco</h2>
+    <p>Segundo o site <a href="https://brasil.mongabay.com/2020/05/a-proxima-grande-ameaca-ao-mico-leao-dourado-febre-amarela/"target="black">MONGABAY</a>
+    <p> Conhecido por sua característica “juba”, semelhante à de um leão, e por sua pelagem alaranjada, o
+        mico-leão-dourado, ou Leontopithecus rosalia, é um macaco endêmico da Mata Atlântica, , bioma que abriga 22 das
+        77 espécies de primatas do Brasil. Nos anos 80, a espécie estava criticamente ameaçada devido à perda de habitat
+        e a níveis extremamente altos de caça ilegal.</p>
+    <p> Na época, a população ficou reduzida a apenas algumas centenas de indivíduos que habitavam fragmentos isolados
+        de floresta em torno da bacia do Rio São João, no estado do Rio de Janeiro. Contudo, uma campanha bem-sucedida
+        focada intensivamente em ações de conservação, que contou com a introdução de micos-leões nascidos em zoológicos
+        nas populações selvagens, aumentou o número de micos-leões para 3.700 em 2014.</p>
+    <p> Então veio o surto de febre amarela, entre o final de 2017 e o começo de 2018. Foi a maior epidemia humana no
+        Brasil desde que a vacinação em massa começou nos anos 1940. A doença transmitida por mosquitos, normalmente
+        encontrada em locais remotos da Amazônia, espalhou-se para os populosos estados do Sudeste, matando centenas de
+        pessoas e infectando milhares.</p>
+    <p> Os cientistas, alarmados com as primeiras mortes por febre amarela de micos-leões-dourados em 2018, ficaram
+        assombrados com o declínio de 32% da espécie devido à doença, um terrível prejuízo para um animal já
+        classificado como ameaçado pela União Internacional para a Conservação da Natureza (IUCN, na sigla em inglês).
+    </p>
+    <p> Agravando a crise, houve uma reação desinformada de moradores locais ao surto de febre amarela, com uma série de
+        ataques a todas as espécies de macacos, aparentemente baseada na crença falsa de que os micos-leões, e não os
+        mosquitos, eram capazes de transmitir diretamente a doença para os humanos. Alguns primatas foram ilegalmente
+        mortos por envenenamento e outros foram abatidos a tiros.</p>
+    <p> Mais notícias ruins: uma pesquisa publicada em 2018 por Karen Strier, antropóloga da Universidade de Wisconsin
+        que estuda os macacos da Mata Atlântica desde os anos 1980, e colegas revelou que os números de muriquis também
+        sofreram quedas “catastróficas” na Reserva Particular do Patrimônio Natural da Mata Atlântica devido à febre
+        amarela, caindo 10% e 26% em duas populações separadas.</p>
+    <p> “O impacto da febre amarela tem sido absolutamente devastador” para esses primatas, especialmente para os
+        micos-leões, diz Ruiz. “Isso pode fazer com que recuemos 30 anos nos esforços de conservação.” Ele relata
+        algumas boas notícias: voluntários estão agora monitorando continuamente as populações sobreviventes de
+        mico-leão, ajudando agentes locais de saúde pública a garantir quase 100% de vacinação das pessoas em áreas
+        afetadas, e a troca regular de informação com órgãos do governo para ajudar a prevenir futuros surtos.</p>
+
+
+
+
+</body>
+
+</html>
